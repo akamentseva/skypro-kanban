@@ -1,4 +1,4 @@
-import { Column } from "../Column/Column";
+import Column from "../Column/Column";
 
 export default function Main() {
   const dummyCards = [

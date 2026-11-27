@@ -1,7 +1,7 @@
-import { Header } from "./components/Header/Header.jsx";
-import { Main } from "./components/Main/Main.jsx";
-import { PopNewCard } from "./components/PopNewCard/PopNewCard.jsx";
-import { PopBrowse } from "./components/PopBrowse/PopBrowse.jsx";
+import Header from "./components/Header/Header.jsx";
+import Main from "./components/Main/Main.jsx";
+import PopNewCard from "./components/PopNewCard/PopNewCard.jsx";
+import PopBrowse from "./components/PopBrowse/PopBrowse.jsx";
 import "./App.css";
 
 function App() {
