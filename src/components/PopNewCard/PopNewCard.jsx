@@ -1,6 +1,6 @@
-import Calendar from "../Calendar/Calendar";
+import { Calendar } from "../Calendar/Calendar";
 
-export function PopNewCard() {
+export default function PopNewCard() {
   return (
     <div className="pop-new-card" id="popNewCard">
       <div className="pop-new-card__container">

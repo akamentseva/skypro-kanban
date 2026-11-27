@@ -1,6 +1,6 @@
-import Calendar from "../Calendar/Calendar";
+import { Calendar } from "../Calendar/Calendar";
 
-export function PopBrowse() {
+export default function PopBrowse() {
   return (
     <div className="pop-browse" id="popBrowse">
       <div className="pop-browse__container">

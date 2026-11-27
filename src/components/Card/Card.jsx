@@ -1,4 +1,4 @@
-export function Card({
+export default function Card({
   category = "_orange",
   title = "Название задачи",
   date = "30.10.23",

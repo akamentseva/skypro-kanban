@@ -1,6 +1,6 @@
-import Column from "../Column/Column";
+import { Column } from "../Column/Column";
 
-export function Main() {
+export default function Main() {
   const dummyCards = [
     { category: "_orange", title: "Название задачи", date: "30.10.23" },
     { category: "_green", title: "Название задачи", date: "30.10.23" },

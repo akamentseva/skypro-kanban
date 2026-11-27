@@ -1,4 +1,4 @@
-export function Calendar() {
+export default function Calendar() {
   return (
     <div className="pop-new-card__calendar calendar">
       <p className="calendar__ttl subttl">Даты</p>
